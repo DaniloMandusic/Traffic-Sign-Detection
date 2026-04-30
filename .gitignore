@@ -5,3 +5,8 @@ venv/
 data/raw/*
 !data/raw/Readme.txt
 data/processed/*
+
+runs/*
+
+yolov8n.pt
+yolo26n.pt
